@@ -1,8 +1,5 @@
 {
   "scripts": {
-    "off": "serverless offline",
-    "invoke": "serverless invoke local --function handler",
-    "seed": "node ./src/db/dynamo.seeder.js",
     "test": "jest",
     "coverage": "npx jest --coverage"
   },

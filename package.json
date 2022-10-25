@@ -1,0 +1,8 @@
+{
+  "scrips": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^29.2.2"
+  }
+}
